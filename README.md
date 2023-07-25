@@ -5,3 +5,4 @@ Offical site for Bridges: https://bridgesmathart.org/
 
 Archive and proceedings of Bridges 2019: http://archive.bridgesmathart.org/2023/index.html
 
+Note: download the paper to read it. Latex and GitHub's in-browser PDF viewer don't seem to play well together.
