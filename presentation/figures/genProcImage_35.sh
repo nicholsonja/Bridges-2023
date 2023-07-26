@@ -3,7 +3,7 @@
 os=`uname | cut -b 1-6`
 if [ $os == "CYGWIN" ]
 then
-	PROCESSING=../../../../processing-4.2/processing-java.exe
+	PROCESSING=/cygdrive/c/Users/John/Documents/processing-4.2/processing-java.exe
 	tmp=`pwd | cut -d/ -f6- | sed "s-/-\\\\\-g"`
 	FOLDER=$USERPROFILE\\${tmp}\\
 else
