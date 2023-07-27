@@ -13,7 +13,7 @@ import PIL.ImageOps as ImageOps
 IMAGE_WIDTH_IN = 2.5
 IMAGE_HEIGHT_IN = 2.5
 DPI = 300
-STROKE = .25
+STROKE = .5
 
 # https://pycairo.readthedocs.io/en/stable/integration.html
 def to_pil(surface: cairo.ImageSurface) -> Image:
